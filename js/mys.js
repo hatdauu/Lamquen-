@@ -138,7 +138,7 @@ const textConfig = {
             text: textConfig.text11,
             confirmButtonColor: "#83d0c9",
             onClose: () => {
-              window.location = "https://cuongnobro.github.io/Baby/";
+              window.location = "https://hatdauu.github.io/loopheart/";
             },
           });
         }
