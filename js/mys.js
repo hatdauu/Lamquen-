@@ -1,5 +1,5 @@
 const textConfig = {
-    text1: "Helo em!",
+    text1: "Hello em!",
     text2: "Anh Muốn Hỏi Em Một Câu Hỏi ",
     text3: "Em cho anh làm quen nha",
     text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm ny anh rùi đó nha :v",
@@ -10,7 +10,7 @@ const textConfig = {
     text9: "Vì em thích anh mất rồi",
     text10: "Anh biết mà ^^ Yêu em 3000",
     text11:
-      "Khi nào rảnh anh có thể đón em đi xem phim được không :v Còn giờ thì em xem hết bí mật này nha!",
+      "Khi nào rảnh anh có thể cùng em đi xem phim một hôm được không :v Còn giờ thì em xem hết bí mật này nha!",
     text12: "Okii lunn",
   };
   
